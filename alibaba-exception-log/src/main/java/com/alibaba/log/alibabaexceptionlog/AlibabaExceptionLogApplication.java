@@ -8,6 +8,7 @@ public class AlibabaExceptionLogApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(AlibabaExceptionLogApplication.class, args);
+        //test code
     }
 
 }
